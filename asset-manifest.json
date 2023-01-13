@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LoginPage/static/css/main.073c9b0a.css",
+    "main.js": "/LoginPage/static/js/main.4b5f1316.js",
+    "static/js/787.3e128b3f.chunk.js": "/LoginPage/static/js/787.3e128b3f.chunk.js",
+    "static/media/Picture.jpg": "/LoginPage/static/media/Picture.2a51e74e537de3b28ea1.jpg",
+    "index.html": "/LoginPage/index.html",
+    "main.073c9b0a.css.map": "/LoginPage/static/css/main.073c9b0a.css.map",
+    "main.4b5f1316.js.map": "/LoginPage/static/js/main.4b5f1316.js.map",
+    "787.3e128b3f.chunk.js.map": "/LoginPage/static/js/787.3e128b3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4b5f1316.js"
+  ]
+}
